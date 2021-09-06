@@ -1,11 +1,10 @@
 # ASP Registration and Login
 
----
 ### It's an Advance Registration and Login System, Build in ASP With C#
 
 ### In Point of View, It's and Best Example of Login in ASP for Students who are Learning ASP.
 
-#### It's consists of Information Such as Name, Mobile, Username, Password, DOB, City, Pin Code, Address, and Photo.
+### It's consists of Information Such as Name, Mobile, Username, Password, DOB, City, Pin Code, Address, and Photo.
 
 ---
 
